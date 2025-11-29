@@ -38,8 +38,6 @@ Two datasets were provided, each split into **train** and **test**:
 
 The final training set is obtained by **merging survey and travel data on `ID`**.
 
-> **Note:** Original datasets are not included in this repository due to hackathon usage terms. Use your own copies in the `data/` folder.
-
 ---
 
 ## 3. Approach & Methodology
