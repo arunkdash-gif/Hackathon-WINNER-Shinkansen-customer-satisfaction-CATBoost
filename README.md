@@ -1,6 +1,6 @@
-# Shinkansen Travel Experience – Passenger Satisfaction Prediction 🚄
+# Shinkansen Travel Experience – Passenger Satisfaction Prediction Team -HackaholiX( Arun, Karthik and Vikram)🚄
 
-This repository contains machine learning solution for the **Shinkansen Travel Experience** hackathon, where the goal was to predict whether a passenger was **satisfied (1)** or **not satisfied (0)** with their overall experience on the Shinkansen bullet train.
+This repository contains machine learning solution for the **Shinkansen Travel Experience** Hackathon, where the goal was to predict whether a passenger was **satisfied (1)** or **not satisfied (0)** with their overall experience on the Shinkansen bullet train.
 
 > 🏆 **Best Score Achieved:** Accuracy = **0.9590192** on the Hacakaton leaderboard 
 > 📊 **Model:** CatBoostClassifier with 5-Fold Stratified Cross-Validation
